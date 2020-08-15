@@ -1,0 +1,25 @@
+body {
+	background-color: #EEE;
+}
+
+#main {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 28px;
+	text-align: center;
+}
+
+#page {
+	background-color: white;
+	width: 800px;
+	margin-left: 5rem;
+	margin-right: auto;
+}
+
+#header {
+	background-color: #ff0080;
+	color: white;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 45px;
+	color: #00da90;
+}
