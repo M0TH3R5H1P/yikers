@@ -1,0 +1,2 @@
+<script type="text/javascript" src="https://free-hit-counters.net/count/68s7"></script><br>
+ <a href='http://www.counter-zaehler.de'>homepage zähler</a> <script type='text/javascript' src='https://whomania.com/ctr?id=777341b57df631bd881a9b23d9d736752b3f7a19'></script>
