@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Le Sickest Memes</title>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+	
+	<body>
+		<div id="page">
+			<div id="header">
+				<h1>yikes</h1>
+			</div>
+
+			<div id="main">
+				<script>
+					var cum = "Look ma, people on my site!";
+					document.write(cum);
+				</script>
+				<br />
+				<hr />
+				<p>Yes, I did use a variable for that line above, just to make an unfunny joke in the source code LMAO.</p>
+				<br />
+				<br />
+				<script>
+					
+					var countUser = 0;
+					localStorage.setItem("userCount", countUser);
+					function counter_func() {
+						var count1 = localStorage.getItem("userCount");
+						var count = parseInt(count1, 10);
+						var counter = document.getElementById("cntr");
+						count = count + 1;
+						counter.innerHTML = count;
+					}
+					window.onload = counter_func;
+				</script>
+				<p>Visitors: <span id="cntr">0</span></p>
+			</div>
+		
+			<div id="links">
+                <a class="link" href="index.html" style="color: whitesmoke">Go Home</a>
+                <br />
+                <br />
+                <a class="link" href="memes.html" style="color: whitesmoke">Look at my Meme Gallery</a>
+			</div>
+
+            <div id="counter">
+                
+            </div>
+
+			<div id="links">
+			</div>
+
+			<div id="footer">
+				<p>well zoinks, you are at the bottom of the page.</p>
+			</div>
+		</div>
+
+	</body>
+
+</html>
